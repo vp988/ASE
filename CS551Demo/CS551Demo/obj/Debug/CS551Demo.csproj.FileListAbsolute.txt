@@ -1,0 +1,10 @@
+c:\users\bvmt9\documents\visual studio 2010\Projects\CS551Demo\CS551Demo\bin\CS551Demo.dll
+c:\users\bvmt9\documents\visual studio 2010\Projects\CS551Demo\CS551Demo\bin\CS551Demo.pdb
+c:\users\bvmt9\documents\visual studio 2010\Projects\CS551Demo\CS551Demo\obj\Debug\CS551Demo.dll
+c:\users\bvmt9\documents\visual studio 2010\Projects\CS551Demo\CS551Demo\obj\Debug\CS551Demo.pdb
+C:\Users\Shashi\Documents\Visual Studio 2013\Projects\CS551Demo\CS551Demo\bin\CS551Demo.dll.config
+C:\Users\Shashi\Documents\Visual Studio 2013\Projects\CS551Demo\CS551Demo\bin\CS551Demo.dll
+C:\Users\Shashi\Documents\Visual Studio 2013\Projects\CS551Demo\CS551Demo\bin\CS551Demo.pdb
+C:\Users\Shashi\Documents\Visual Studio 2013\Projects\CS551Demo\CS551Demo\obj\Debug\CS551Demo.csprojResolveAssemblyReference.cache
+C:\Users\Shashi\Documents\Visual Studio 2013\Projects\CS551Demo\CS551Demo\obj\Debug\CS551Demo.dll
+C:\Users\Shashi\Documents\Visual Studio 2013\Projects\CS551Demo\CS551Demo\obj\Debug\CS551Demo.pdb
